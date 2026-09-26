@@ -196,7 +196,7 @@ Esta abordagem de infraestrutura distribuída, combinada com os princípios da a
 
 ---
 
-# 🇺🇸 OTP (One-Time Password) Token API
+# 🇦🇺 OTP (One-Time Password) Token API
 
 This project implements a REST API for managing OTP (One-Time Password) tokens, following the principles of Hexagonal Architecture.
 
